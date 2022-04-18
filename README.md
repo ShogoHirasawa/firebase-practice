@@ -1,0 +1,2 @@
+# firebase-practice
+firebaseを使った静的ホスティングのログ用リポジトリ
